@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Discord.Addons.Interactive" Version="1.0.1"/>
+    <PackageReference Include="Discord.Net" Version="2.0.0-beta2-01044"/>
+    <PackageReference Include="HtmlAgilityPack" Version="1.8.11"/>
+    <PackageReference Include="Kitsu" Version="1.4.1"/>
+    <PackageReference Include="LazyCache" Version="2.0.0-beta03"/>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="2.2.0"/>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="2.2.0"/>
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="3.0.0-preview.18572.1"/>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.1"/>
+    <PackageReference Include="NLog" Version="4.5.11"/>
+    <PackageReference Include="OmdbApiNet" Version="1.1.0"/>
+    <PackageReference Include="TMDbLib.Core2" Version="1.0.0"/>
+    <PackageReference Include="Google.Apis.Sheets.v4" Version="1.38.0.1479"/>
+  </ItemGroup>
+</Project>
